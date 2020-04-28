@@ -1,3 +1,8 @@
+/*
+    Meghana Woodruff    wood143
+    William Okuno       Okuno006
+    lab 11
+*/
 public class RunnyQueue<T> {
     private int tail;
     private RunnyQueueNode<T> head, next;
